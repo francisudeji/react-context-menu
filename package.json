@@ -66,5 +66,8 @@
 		"ghooks": {
 			"pre-commit": "npm run prettier"
 		}
+	},
+	"dependencies": {
+		"react-click-away-listener": "^1.4.4"
 	}
 }
